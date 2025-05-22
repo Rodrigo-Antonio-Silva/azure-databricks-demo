@@ -51,13 +51,13 @@ O dataset utilizado foi o **`cars_dataset_2_csv`**, carregado como tabela no met
 
 ## Prints do Projeto
 
-![print_Tabela]()
+![print_Tabela](https://github.com/Rodrigo-Antonio-Silva/azure-databricks-demo/blob/a097d02a8f899b339c1c33048fa2de549adb435e/Captura%20de%20tela%202025-05-22%20160850.png)
 
-![print_Análise descritiva]()
+![print_Análise descritiva](https://github.com/Rodrigo-Antonio-Silva/azure-databricks-demo/blob/a097d02a8f899b339c1c33048fa2de549adb435e/Captura%20de%20tela%202025-05-22%20160954.png)
 
-![print_History version]()
+![print_History version](https://github.com/Rodrigo-Antonio-Silva/azure-databricks-demo/blob/a097d02a8f899b339c1c33048fa2de549adb435e/Captura%20de%20tela%202025-05-22%20161305.png)
 
-![print_Análise descritiva]()
+![print_Análise descritiva](https://github.com/Rodrigo-Antonio-Silva/azure-databricks-demo/blob/a097d02a8f899b339c1c33048fa2de549adb435e/Captura%20de%20tela%202025-05-22%20161337.png)
 ---
 
 ## 📊 Consultas SQL Utilizadas
